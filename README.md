@@ -8,7 +8,7 @@ In addition to this GitHub repository, the device-agnostic model and an experime
 
 ## The repository structure:
 ### Figure 2
-The "Figure 2" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of mean absolute error on the emitter power, the width of the point spread function, the concentration of emitters, and the point spread function shape. <br>
+The "Figure 2" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of mean absolute error on the emitter power, the width of the point spread function, the concentration of emitters, and the point spread function shape. <br><br>
 Namely:
 - "Fig_2_Data_generation.ipynb" generates and saves a simulated dataset for each panel of the Fig. 2
 - "Fig_2_Method_evaluation.ipynb" uses these generated datasets to evaluate the performance of the deep learning model and the Richardson-Lucy algorithm
@@ -18,7 +18,7 @@ Namely:
 Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" stored at the Zenodo repository due to its size.
 
 ### Figure 4
-The "Figure 4" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 4 of the publication. I.e., evaluation of the experimental data and comparison to simulated samples of the same optical parameters. <br>
+The "Figure 4" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 4 of the publication. I.e., evaluation of the experimental data and comparison to simulated samples of the same optical parameters. <br><br>
 Namely:
 - "Fig_4_Data_generation.ipynb" generates and saves a simulated dataset using the optical parameter values corresponding to the experimental setup
 - "Fig_4_Method_evaluation.ipynb" uses this generated dataset to evaluate the performance of the deep learning model and the Richardson-Lucy algorithm
@@ -28,7 +28,7 @@ Namely:
 Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" and the measured dataset from the experimental setup "Measured_data.npz" stored at the Zenodo repository due to their sizes.
 
 ### Figure 5
-The "Figure 5" folder contains several files necessary to recreate the graph depicted in Fig. 5 of the publication. I.e., the demonstration of the device-agnostic model on a high-concentration tubulin dataset from the single-molecule localization microscopy challenge. <br>
+The "Figure 5" folder contains several files necessary to recreate the graph depicted in Fig. 5 of the publication. I.e., the demonstration of the device-agnostic model on a high-concentration tubulin dataset from the single-molecule localization microscopy challenge. <br><br>
 Namely:
 - "Fig_5_Data_processing.ipynb" contains the code for data pre-processing, evaluation, and results visualization corresponding to Fig. 5 of the publication
 - "F5_func_file.py" contains the definitions of functions called by the Jupyter notebook
