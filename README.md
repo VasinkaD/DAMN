@@ -1,13 +1,14 @@
 # Device-Agnostic Super-Resolution Imaging with Deep Learning
 
-This repository provides data and supplementary material for the paper **Device-Agnostic Super-Resolution Imaging with Deep Learning**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. The paper is currently being prepared and will be available on arXiv. <br>
+This repository provides data and supplementary material for the paper **Device-Agnostic Super-Resolution Imaging with Deep Learning**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek.
+The paper is currently being prepared and will be available on arXiv. <br>
 The repository is currently being developed; please await its completion.
 
 In addition to this GitHub repository, the device-agnostic model and an experimental dataset are stored at the Zenodo repository due to their size.
 
 ## The repository structure:
 ### Figure 2
-The "Figure 2" folder contains Jupyter notebooks and a supporting file with the Python function definitions necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of mean absolute error on the emitter power, the width of the point spread function, the concentration of emitters, and the point spread function shape. <br>
+The "Figure 2" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of mean absolute error on the emitter power, the width of the point spread function, the concentration of emitters, and the point spread function shape. <br>
 Namely:
 - "Fig_2_Data_generation.ipynb" generates and saves a simulated dataset for each panel of the Fig. 2
 - "Fig_2_Method_evaluation.ipynb" uses these generated datasets to evaluate the performance of the deep learning model and the Richardson-Lucy algorithm
@@ -17,7 +18,7 @@ Namely:
 Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" stored at the Zenodo repository due to its size.
 
 ### Figure 4
-The "Figure 4" folder contains Jupyter notebooks and a supporting file with the Python function definitions necessary to recreate the graph depicted in Fig. 4 of the publication. I.e., evaluation of the experimental data and comparison to simulated samples of the same optical parameters. <br>
+The "Figure 4" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 4 of the publication. I.e., evaluation of the experimental data and comparison to simulated samples of the same optical parameters. <br>
 Namely:
 - "Fig_4_Data_generation.ipynb" generates and saves a simulated dataset using the optical parameter values corresponding to the experimental setup
 - "Fig_4_Method_evaluation.ipynb" uses this generated dataset to evaluate the performance of the deep learning model and the Richardson-Lucy algorithm
