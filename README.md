@@ -15,7 +15,7 @@ Namely:
 - "Fig_2_Results_vizualization.ipynb" visualizes the results of the previous notebook in the publication form
 - "F2_func_file.py" contains the definitions of functions called by the three Jupyter notebooks
 <br>
-Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to its size. <br>
+Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" stored at the Zenodo repository due to its size. <br>
 
 ### Figure 4
 The "Figure 4" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 4 of the publication. I.e., evaluation of the experimental data and comparison to simulated samples of the same optical parameters. <br><br>
@@ -25,7 +25,7 @@ Namely:
 - "Fig_4_Results_vizualization.ipynb" visualizes the results of the previous notebook in the publication form
 - "F4_func_file.py" contains the definitions of functions called by the three Jupyter notebooks
 <br>
-Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" and the measured dataset from the experimental setup "Measured_data.npz" stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their sizes. <br>
+Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" and the measured dataset from the experimental setup "Measured_data.npz" stored at the Zenodo repository due to their sizes. <br>
 
 ### Figure 5
 The "Figure 5" folder contains several files necessary to recreate the graph depicted in Fig. 5 of the publication. I.e., the demonstration of the device-agnostic model on a high-concentration tubulin dataset from the single-molecule localization microscopy challenge. <br><br>
