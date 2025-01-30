@@ -1,6 +1,6 @@
-# Device-Agnostic Super-Resolution Imaging with Deep Learning
+# From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging
 
-This repository provides data and supplementary material for the paper **Device-Agnostic Super-Resolution Imaging with Deep Learning**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. <br>
+This repository provides data and supplementary material for the paper **From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. <br>
 The paper is currently being prepared and will be available on arXiv. <br>
 The repository is currently being developed; please await its completion.
 
