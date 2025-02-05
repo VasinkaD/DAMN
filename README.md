@@ -14,7 +14,7 @@ Namely:
 - "Fig_2_Method_evaluation.ipynb" uses these generated datasets to evaluate the performance of the deep learning model and the Richardson-Lucy algorithm
 - "Fig_2_Results_vizualization.ipynb" visualizes the results of the previous notebook in the publication form
 - "F2_func_file.py" contains the definitions of functions called by the three Jupyter notebooks
-<br>
+
 Moreover, these Jupyter notebooks require the device-agnostic learning model "DAMN_model.h5" stored at the Zenodo repository due to its size.
 
 ### Figure 4
@@ -32,7 +32,7 @@ The "Figure 5" folder contains several files necessary to recreate the graph dep
 Namely:
 - "Fig_5_Data_processing.ipynb" contains the code for data pre-processing, evaluation, and results visualization corresponding to Fig. 5 of the publication
 - "F5_func_file.py" contains the definitions of functions called by the Jupyter notebook
-- "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers <br>
+- "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers
 
 Moreover, the Jupyter notebook requires the original file "eso1037a.tif" of the spiral galaxy image. This 106 MB file can be downloaded as a "Fullsize Original" from the European Southern Observation [ESO](https://eso.org/public/images/eso1037a/) repository.
 
@@ -44,5 +44,5 @@ Namely:
 - "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers
 - "sequence.zip" contains the high-concentration tubulin data from [the single-molecule localization microscopy challenge](https://srm.epfl.ch/srm/dataset/challenge-2D-real/Real_High_Density/index.html)
 - "SOSplugin_hd_image.png" is a reference image provided by the [SOSplugin](https://smal.ws/wp/software/sosplugin/)
-<br>
+
 This folder does not require any additional files.
