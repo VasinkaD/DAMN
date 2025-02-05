@@ -33,7 +33,7 @@ Namely:
 - "Fig_5_Data_processing.ipynb" contains the code for data pre-processing, evaluation, and results visualization corresponding to Fig. 5 of the publication
 - "F5_func_file.py" contains the definitions of functions called by the Jupyter notebook
 - "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers
-<br>
+
 Moreover, the Jupyter notebook requires the original file "eso1037a.tif" of the spiral galaxy image. This 106 MB file can be downloaded as a "Fullsize Original" from the European Southern Observation [ESO](https://eso.org/public/images/eso1037a/) repository.
 
 ### Figure 6
