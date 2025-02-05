@@ -34,7 +34,7 @@ Namely:
 - "F5_func_file.py" contains the definitions of functions called by the Jupyter notebook
 - "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers
 <br>
-Moreover, the Jupyter notebook requires the original file "eso1037a.tif" of the spiral galaxy image. This 106 MB file can be downloaded as a "Fullsize Original" from the [European Southern Observation repository.](https://srm.epfl.ch/srm/dataset/challenge-2D-real/Real_High_Density/index.html](https://www.eso.org/public/images/eso1037a/)
+Moreover, the Jupyter notebook requires the original file "eso1037a.tif" of the spiral galaxy image. This 106 MB file can be downloaded as a "Fullsize Original" from the [European Southern Observation repository.](https://www.eso.org/public/images/eso1037a/)
 
 ### Figure 6
 The "Figure 6" folder contains several files necessary to recreate the graph depicted in Fig. 6 of the publication. I.e., the demonstration of the device-agnostic model on a high-concentration tubulin dataset from the single-molecule localization microscopy challenge. <br><br>
