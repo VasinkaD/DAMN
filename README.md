@@ -6,6 +6,8 @@ The repository is currently being developed; please await its completion.
 
 In addition to this GitHub repository, the device-agnostic model and an experimental dataset are stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their size.
 
+[ESO](https://eso.org/public/images/eso1037a/)
+
 ## The repository structure:
 ### Figure 2
 The "Figure 2" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of mean absolute error on the emitter power, the width of the point spread function, the concentration of emitters, and the point spread function shape. <br><br>
