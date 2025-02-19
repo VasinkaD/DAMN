@@ -39,7 +39,7 @@ Moreover, the Jupyter notebook requires the original file "eso1037a.tif" of the 
 ### Figure 6
 The "Figure 6" folder contains several files necessary to recreate the graph depicted in Fig. 6 of the publication. I.e., the demonstration of the device-agnostic model on a high-concentration tubulin dataset from the single-molecule localization microscopy challenge. <br><br>
 Namely:
-- "Fig_6_Data_processing.ipynb" contains the code for data pre-processing, evaluation, and results visualization corresponding to Fig. 6 of the publication
+- "Fig_6_Data_processing.ipynb" contains the code for data processing, evaluation, and results visualization corresponding to Fig. 6 of the publication
 - "F6_func_file.py" contains the definitions of functions called by the Jupyter notebook
 - "Upsampling_model.h5" is the adjusted device-agnostic model with implemented upsampling layers
 - "sequence.zip" contains the high-concentration tubulin data from [the single-molecule localization microscopy challenge](https://srm.epfl.ch/srm/dataset/challenge-2D-real/Real_High_Density/index.html)
