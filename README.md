@@ -1,8 +1,7 @@
 # From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging
 
 This repository provides data and supplementary material for the paper **From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. <br>
-The paper is available on [arXiv](https://doi.org/10.48550/arXiv.2502.18637). <br> 
-The repository is currently being developed; please await its completion.
+The paper is available on [arXiv](https://doi.org/10.48550/arXiv.2502.18637).
 
 In addition to this GitHub repository, the device-agnostic model and an experimental dataset are stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their size.
 
