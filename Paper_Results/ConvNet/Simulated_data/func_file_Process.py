@@ -87,7 +87,6 @@ def RL_TV_iteration_for_concurrent(kernel_, input_sample_):
     
     iteration = 0
     while (np.sum(np.abs(u - u_new)) / (d.shape[0]*d.shape[1])) > 10**(-10): #10**-10 for single pixel
-    #while np.sum(np.abs(u - u_new)) > 10**(-5): 
         u = u_new
         
         #RL
