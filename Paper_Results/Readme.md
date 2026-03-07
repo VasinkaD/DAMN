@@ -1,4 +1,6 @@
-This directory contains the code and data files corresponding to the results presented in the paper. We strongly recommend reading the publication first to familiarize yourself with the concepts. <br>
+This directory contains the code and data files corresponding to the results presented in the paper: <br>
+**From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**. <br>
+We strongly recommend reading the publication first to familiarize yourself with the concepts. <br>
 
 -> ConvNet
 Subdirectory with applications related to the non-upsampling ConvNet model. <br>
