@@ -5,8 +5,7 @@ In addition to the provided files, it also requires the *DAMN_ResNet.keras* mode
 A Jupyter notebook that processes the tubulin dataset and visualizes its results. <br>
 
 -> **func_file_Model.py** <br>
-Supporting functions for generating data with specified optical parameters. <br>
-Used for generating data for the parameter-dependence testing. <br>
+Architecture definitions for creating the DAMN ResNet model and subsequently loading the weights. <br>
 
 -> **func_file_Process.py** <br>
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
