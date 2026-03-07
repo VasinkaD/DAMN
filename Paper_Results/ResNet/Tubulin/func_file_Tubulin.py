@@ -10,7 +10,7 @@ import cv2
 def Load_sequence():
     if not os.path.exists("sequence"):
         with ZipFile("sequence.zip", 'r') as zip_ref:
-            zip_ref.extractall()
+            zip_ref.extractall("sequence")
     
     allframes = [f for f in os.listdir("sequence/") if os.path.isfile(os.path.join("sequence/", f))]
     allframes.sort()
