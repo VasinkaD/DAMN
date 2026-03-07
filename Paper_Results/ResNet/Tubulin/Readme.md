@@ -7,8 +7,8 @@ A Jupyter notebook that processes the tubulin dataset and visualizes its results
 -> **func_file_Model.py** <br>
 Architecture definitions for creating the DAMN ResNet model and subsequently loading the weights. <br>
 
--> **func_file_Process.py** <br>
-Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
+-> **func_file_Tubulin.py** <br>
+Supporting functions for processing data with each method and for evaluating quantitative results. <br>
 
 -> **DeepStorm_MAEs.zip** <br>
-The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment.
+The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. <br>
