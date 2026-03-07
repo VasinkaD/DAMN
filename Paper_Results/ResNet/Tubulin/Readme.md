@@ -15,4 +15,3 @@ The tubulin reconstruction provided directly by the authors of Deep-STORM, avail
 
 -> **SOS_detections.txt** <br>
 The localization table provided by the [SOS Plugin](https://smal.ws/wp/software/sosplugin/), when applied to the tubuling dataset. <br>
-
