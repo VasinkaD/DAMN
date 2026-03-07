@@ -9,5 +9,11 @@ The paper is available on [arXiv](https://doi.org/10.48550/arXiv.2502.18637).
 In addition to this GitHub repository, the DAMN ConvNet model and an experimental dataset are stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their size.
 
 ## The repository structure:
-### Figure 2
-The "Figure 2" folder contains Jupyter notebooks, and a supporting file with the Python function definitions, necessary to recreate the graph depicted in Fig. 2 of the publication. I.e., the dependence of 
+### Demos
+
+
+### Device_agnostic_training
+
+
+### Paper_results
+The directory contains all the code and data to reproduce the results presented in the paper.
