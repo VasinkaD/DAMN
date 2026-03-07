@@ -10,10 +10,10 @@ In addition to this GitHub repository, the DAMN ConvNet model and an experimenta
 
 ## The repository structure:
 ### Demos
-
+This directory contains code and data for introduction and basic demos on running the DAMN model.
 
 ### Device_agnostic_training
 
 
 ### Paper_results
-The directory contains all the code and data to reproduce the results presented in the paper.
+This directory contains all the code and data to reproduce the results presented in the paper.
