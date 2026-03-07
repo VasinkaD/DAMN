@@ -10,7 +10,7 @@ Once the data has been generated, this Jupyter notebook processes the images usi
 As an additional note, the Richardson-Lucy algorithms can take substantial time for reconstructions (up to days, depending on the hardware). Therefore, the code includes an option to reproduce only a small portion of the simulated data to speed up the process. <br>
 
 -> 3_Visualize_results.ipynb <br>
-Once the data has been processed, the evaluated mean absolute error metric is loaded, and the graphs are visualized. <br>
+Once the data has been processed, the evaluated mean absolute error metric is loaded, and the graphs of Figure 2 are visualized. <br>
 The Deep-STORM results are loaded from the DeepStorm_MAEs.zip file, as Deep-STORM requires a standalone environment. <br>
 
 -> func_file_Simulate.py <br>
