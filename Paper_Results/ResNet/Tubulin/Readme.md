@@ -14,4 +14,5 @@ Supporting functions for processing data with each method and for evaluating qua
 The tubulin reconstruction provided directly by the authors of Deep-STORM, available in their [repository](https://github.com/EliasNehme/Deep-STORM). <br>
 
 -> **SOS_detections.txt** <br>
-The localization table provided by the SOS Plugin when applied to the tubuling dataset. <br>
+The localization table provided by the [SOS Plugin](https://smal.ws/wp/software/sosplugin/), when applied to the tubuling dataset. <br>
+
