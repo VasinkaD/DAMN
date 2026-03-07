@@ -8,4 +8,4 @@ This model was used for the "Simulated data" and "Optical experiment" sections. 
 
 -> **ResNet** <br>
 Subdirectory with applications related to the upsampling ResNet model. <br>
-This model was used for the Binary stars (astronomy), Tubulin (microscopy), Nuclear pore complexes (microscopy), and Aberration analysis applications. <br>
+This model was used for the Binary stars (astronomy), Tubulin (microscopy), Nuclear pore complexes (microscopy), and Aberration analysis (simulation) applications. <br>
