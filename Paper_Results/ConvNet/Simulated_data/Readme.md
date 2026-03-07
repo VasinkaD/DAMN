@@ -13,12 +13,12 @@ As an additional note, the Richardson-Lucy algorithms can take substantial time 
 Once the data has been processed, the evaluated mean absolute error metric is loaded, and the graphs are visualized. <br>
 The Deep-STORM results are loaded from the DeepStorm_MAEs.zip file, as Deep-STORM requires a standalone environment. <br>
 
--> func_file_Simulate.py
+-> func_file_Simulate.py <br>
 Supporting functions for generating data with specified optical parameters. <br>
 Used for generating data for the parameter-dependence testing. <br>
 
--> func_file_Process.py
+-> func_file_Process.py <br>
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
 
--> DeepStorm_MAEs.zip
+-> DeepStorm_MAEs.zip <br>
 The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment.
