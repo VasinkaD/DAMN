@@ -1,5 +1,5 @@
-This directory contains codes for reproducing the results of the section "Evaluation using simulated data" of the main text and Figure 2. <br>
-In addition to the provided files, it also requires the DAMN ConvNet model. Due to its size, it is available for download at XXX.
+This directory contains codes and data for reproducing the results of the section "Evaluation using simulated data" of the main text and Figure 2. <br>
+In addition to the provided files, it also requires the DAMN ConvNet model. Due to its size, it is available for download at XXX. <br>
 
 -> 1_Generate_data.ipynb <br>
 A Jupyter notebook that generates the simulated datasets for various optical parameters. <br>
