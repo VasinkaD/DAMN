@@ -1,5 +1,5 @@
 This directory contains code and data to reproduce the results for the nuclear pore complexes dataset from the section "*Astronomical and localization microscopy demonstration*" of the main text 
-and *Figure 6-II*. <br><br>
+and *Figure 6-II*. <br>
 In addition to the provided files, it also requires the *DAMN_ResNet.keras* model stored in the *ResNet* directory and the nuclear pore complexes dataset, "*Gettingstarted2D_Nup96-AF647.zip*," available at [this repository](https://www.embl.de/download/ries/Example_NPC3D2C/). <br>
 
 -> **Process_NPC.ipynb** <br>
