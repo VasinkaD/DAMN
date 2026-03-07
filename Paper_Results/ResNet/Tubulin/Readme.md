@@ -10,6 +10,9 @@ Architecture definitions for creating the DAMN ResNet model and subsequently loa
 -> **func_file_Tubulin.py** <br>
 Supporting functions for processing data with each method and for evaluating quantitative results. <br>
 
+-> **sequence.zip** <br>
+Compressed stack of 500 low-resolution TIFF images that form the tubulin microscopy dataset. <br>
+
 -> **DS_reconstruction.mat** <br>
 The tubulin reconstruction provided directly by the authors of Deep-STORM, available in their [repository](https://github.com/EliasNehme/Deep-STORM). <br>
 
