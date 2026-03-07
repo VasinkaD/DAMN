@@ -11,7 +11,7 @@ Architecture definitions for creating the DAMN ResNet model and subsequently loa
 Supporting functions for processing data with each method and for evaluating quantitative results. <br>
 
 -> **sequence.zip** <br>
-Compressed stack of 500 low-resolution TIFF images that form the tubulin microscopy dataset. <br>
+Compressed stack of 500 low-resolution TIFF images that form the tubulin microscopy dataset. Also available from the website of [the single-molecule localization microscopy challenge](https://srm.epfl.ch/srm/dataset/challenge-2D-real/Real_High_Density/index.html) <br>
 
 -> **DS_reconstruction.mat** <br>
 The tubulin reconstruction provided directly by the authors of Deep-STORM, available in their [repository](https://github.com/EliasNehme/Deep-STORM). <br>
