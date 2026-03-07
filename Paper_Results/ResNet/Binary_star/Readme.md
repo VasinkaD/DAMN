@@ -11,7 +11,7 @@ Architecture definitions for creating the DAMN ResNet model and subsequently loa
 Supporting functions for processing the data. <br>
 
 -> **Binary_star_LR.tiff** <br>
-The low-resolution image from the ground-based telescope to be reconstructed with the binary stars in the center. <br>
+The low-resolution image from the ground-based telescope to be reconstructed. The fully unresolved binary stars are located in the center. <br>
 
 -> **GT_table.txt** <br>
 The ground-truth information on the binary stars from the space-based observatory provided by the Gaia Data Release 3. <br>
