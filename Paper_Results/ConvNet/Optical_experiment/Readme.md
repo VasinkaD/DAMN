@@ -21,3 +21,5 @@ Supporting functions for generating data with optical parameters that match the 
 -> func_file_Process_exp.py <br>
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
 
+-> DeepStorm_exp_MAEs.zip <br>
+The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment.
