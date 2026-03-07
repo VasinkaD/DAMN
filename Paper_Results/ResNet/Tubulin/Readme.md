@@ -10,5 +10,8 @@ Architecture definitions for creating the DAMN ResNet model and subsequently loa
 -> **func_file_Tubulin.py** <br>
 Supporting functions for processing data with each method and for evaluating quantitative results. <br>
 
--> **DeepStorm_MAEs.zip** <br>
-The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. <br>
+-> **DS_reconstruction.mat** <br>
+The tubulin reconstruction provided directly by the authors of Deep-STORM, available in their repository. <br>
+
+-> **SOS_detections.txt** <br>
+The localization table provided by the SOS Plugin when applied to the tubuling dataset. <br>
