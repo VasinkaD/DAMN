@@ -1,6 +1,6 @@
 This directory contains Jupyter notebooks and .py function files with basic demos on running the DAMN model.
 
-1_Introduction.ipynb <br>
+-> 1_Introduction.ipynb <br>
 Covers proper model loading and verifies functionality by reconstructing a known sample. The result of the DAMN model application is compared against the result obtained by us, saved in the Pre-generated_test_sample.npz. <br>
 Also includes basic data generation to apply the DAMN model to a stack of images with user-specified imaging parameters. <br>
 
