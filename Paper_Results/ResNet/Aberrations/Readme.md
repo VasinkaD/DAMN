@@ -8,7 +8,7 @@ A Jupyter notebook that generates realistic aberrated point spread functions usi
 A Jupyter notebook that takes the generated point spread functions and generates simulated datasets for aberration analysis. <br>
 
 -> **3_Evaluate.ipynb** <br>
-A Jupyter notebook that takes the generated datasets and evaluates the DAMN ResNet model's robustness to aberrated PSFs. <br>
+A Jupyter notebook that takes the generated datasets and evaluates the DAMN ResNet model's robustness to aberrated PSFs and numerical aperture. <br>
 
 -> **func_file_Model.py** <br>
 Architecture definitions for creating the DAMN ResNet model and subsequently loading the weights. <br>
