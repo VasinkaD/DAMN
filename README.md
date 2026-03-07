@@ -13,7 +13,7 @@ In addition to this GitHub repository, the DAMN ConvNet model and an experimenta
 This directory contains code and data for introduction and basic demos on running the DAMN model.
 
 ### Device_agnostic_training
-
+This directory contains code for training a device-agnostic model using incremental learning with simulated data.
 
 ### Paper_results
 This directory contains all the code and data to reproduce the results presented in the paper.
