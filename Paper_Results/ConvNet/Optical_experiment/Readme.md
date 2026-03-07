@@ -15,9 +15,9 @@ only a small portion of the data to speed up the process. <br>
 Once the data has been processed, the evaluated mean absolute error metric is loaded, and the graphs of Figure 4 are visualized. <br>
 The Deep-STORM results are loaded from the DeepStorm_exp_MAEs.zip file, as Deep-STORM requires a standalone environment. <br>
 
--> func_file_Simulate.py <br>
-Supporting functions for generating data with specified optical parameters. <br>
-Used for generating data for the parameter-dependence testing. <br>
+-> func_file_Experiment.py <br>
+Supporting functions for generating data with optical parameters that match the experimental setting. <br>
 
--> func_file_Process.py <br>
+-> func_file_Process_exp.py <br>
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
+
