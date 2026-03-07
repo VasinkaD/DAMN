@@ -18,7 +18,7 @@ Supporting functions for generating data with specified optical parameters. <br>
 Used for generating data for the parameter-dependence testing. <br>
 
 -> **func_file_Process.py** <br>
-Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
+Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms. <br>
 
 -> **DeepStorm_MAEs.zip** <br>
-The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment.
+The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. <br>
