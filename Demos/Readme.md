@@ -13,7 +13,7 @@ By default, it is demonstrated using a small subset (10 frames from the *Small_d
 Supporting functions for tubulin data loading and simplified data generation. <br>
 
 -> **func_file_Model.py** <br>
-Architecture definitions to create the model and subsequently load the weights. <br>
+Architecture definitions for creating the DAMN ResNet model and subsequently loading the weights. <br>
 
 -> **Pre-generated_test_sample.npz** <br>
 A single simulated low-resolution image with its high-resolution ground truth and the expected result of the DAMN model. Serves to verify the proper functioning of the model on your device. <br>
