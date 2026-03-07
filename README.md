@@ -8,7 +8,7 @@
 This repository provides data and supplementary material for the paper **From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. <br>
 The paper is available on [arXiv](https://doi.org/10.48550/arXiv.2502.18637).
 
-In addition to this GitHub repository, the DAMN ConvNet model and an experimental dataset are stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their size.
+In addition to this GitHub repository, the DAMN ConvNet model and the experimental dataset are stored at the [Zenodo repository](https://zenodo.org/records/14641652) due to their size. The DAMN ResNet model is available directly here, in the relevant directories.
 
 ## The repository structure:
 ### Demos
