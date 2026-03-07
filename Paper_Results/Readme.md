@@ -1,4 +1,4 @@
-This directory contains the code and data files corresponding to the results presented in the paper: <br>
+This directory contains the code and data files to reproduce the results presented in the paper: <br>
 **From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**. <br>
 We strongly recommend reading the publication first to familiarize yourself with the concepts. <br>
 
