@@ -1,4 +1,5 @@
 This directory contains the code and data files for the non-upsampling ConvNet model results. <br>
+Each subdirectory uses the *DAMN_ConvNet.h5* model. Due to its size, it is available for download at [Zenodo repository](https://doi.org/10.5281/zenodo.14641651). <br>
 
 -> **Simulated_data** <br>
 Subdirectory with codes for generating simulated data, processing them using all methods, and visualizing the results. <br>
