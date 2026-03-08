@@ -8,3 +8,6 @@ The results are characterized in the section "*Evaluation using simulated data*"
 -> **Optical_experiment** <br>
 Subdirectory with codes for processing the data samples measured with our optical setup, which allows full control over the ground-truth emitter distribution. <br>
 The results are characterized in the section "*Optical microscopy experimental validation with full control over ground truth*" of the main text and *Figure 4*. <br>
+
+-> **requirements_ConvNet.txt** <br>
+A file containing pip freeze information about the environment with the Python version 3.11.3 and CUDA 12.1.1.
