@@ -1,5 +1,5 @@
 This directory contains the code and data files for the upsampling ResNet model results. <br>
-Each subdirectory uses the *DAMN_ResNet.keras* model, also stored in this directory. <br>
+Each subdirectory uses the *DAMN_ResNet.keras* model. Due to its size, it is available for download at XXX. <br>
 
 -> **Aberrations** <br>
 Subdirectory with codes for generating simulated data with realistic aberrated point spread functions, and the corresponding analysis. <br>
@@ -16,6 +16,3 @@ The results are characterized in the section "*Astronomical and localization mic
 -> **Nuclear_pore_complexes** <br>
 Subdirectory with codes for processing the microscopy data of nuclear pore complexes. <br>
 The results are characterized in the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 6-II*. <br>
-
--> **DAMN_ResNet.keras** <br>
-The upsampling ResNet model to be loaded and utilized by each application.
