@@ -21,4 +21,4 @@ Used for generating data for the parameter-dependence testing. <br>
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms. <br>
 
 -> **DeepStorm_MAEs.zip** <br>
-The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. <br>
+The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. Additionally, the Deep-STORM training and evaluation uses the codebase of its authors, which we do not intend to replicate in our repository.
