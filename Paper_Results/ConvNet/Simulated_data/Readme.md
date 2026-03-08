@@ -1,5 +1,5 @@
 This directory contains code and data for reproducing the results of the section "*Evaluation using simulated data*" of the main text and *Figure 2*. <br>
-In addition to the provided files, it also requires the *DAMN_ConvNet.h5* model. Due to its size, it is available for download at XXX. <br>
+In addition to the provided files, it also requires the *DAMN_ConvNet.h5* model. Due to its size, it is available for download at [Zenodo repository](https://doi.org/10.5281/zenodo.14641651). <br>
 
 -> **1_Generate_data.ipynb** <br>
 A Jupyter notebook that generates the simulated datasets for various optical parameters. <br>
