@@ -1,4 +1,5 @@
 This directory contains code and data for basic demos on running the DAMN model.
+In addition to the provided files, it also requires the *DAMN_ResNet.keras* model. Due to its size, it is available for download at XXX. <br>
 
 -> **1_Introduction.ipynb** <br>
 Covers proper model loading and verifies functionality by reconstructing a known sample. The result of the DAMN model application is compared against the result obtained by us, saved in the *Pre-generated_test_sample.npz*. <br>
