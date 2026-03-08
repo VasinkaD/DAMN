@@ -1,5 +1,5 @@
 This directory contains code and data to reproduce the results for the binary stars from the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 5*. <br>
-In addition to the provided files, it also requires the *DAMN_ResNet.keras* model stored in the *ResNet* directory. <br>
+In addition to the provided files, it also requires the *DAMN_ResNet.keras* model. Due to its size, it is available for download at XXX. <br>
 
 -> **Binary_star_evaluate.ipynb** <br>
 A Jupyter notebook that processes the astronomical data and visualizes its results. <br>
