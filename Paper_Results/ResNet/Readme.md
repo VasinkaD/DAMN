@@ -1,5 +1,5 @@
 This directory contains the code and data files for the upsampling ResNet model results. <br>
-Each subdirectory uses the *DAMN_ResNet.keras* model. Due to its size, it is available for download at XXX. <br>
+Each subdirectory uses the *DAMN_ResNet.keras* model. Due to its size, it is available for download at [Zenodo repository](https://doi.org/10.5281/zenodo.14641651). <br>
 
 -> **Aberrations** <br>
 Subdirectory with codes for generating simulated data with realistic aberrated point spread functions, and the corresponding analysis. <br>
