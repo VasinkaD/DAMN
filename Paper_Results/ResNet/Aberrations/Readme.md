@@ -1,5 +1,5 @@
 This directory contains code and data to reproduce the results for the aberration analysis from the section "*Aberration analysis*" of Methods and *Extended Data Figure 2*. <br>
-In addition to the provided files, it also requires the *DAMN_ResNet.keras* model stored in the *ResNet* directory. <br>
+In addition to the provided files, it also requires the *DAMN_ResNet.keras* model. Due to its size, it is available for download at XXX. <br>
 
 -> **1_Generate_PSFs_with_aberrations.ipynb** <br>
 A Jupyter notebook that generates realistic aberrated point spread functions using vectorial calculus with Zernike polynomials. <br>
