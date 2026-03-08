@@ -22,4 +22,4 @@ Supporting functions for generating data with optical parameters that match the 
 Supporting functions for processing the data with each method. For example, the definition of both Richardson-Lucy algorithms.
 
 -> **DeepStorm_exp_MAEs.zip** <br>
-The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment.
+The results obtained from all the device-dependent Deep-STORM models, as their evaluation requires a standalone environment. Additionally, the Deep-STORM training and evaluation uses the codebase of its authors, which we do not intend to replicate in our repository.
