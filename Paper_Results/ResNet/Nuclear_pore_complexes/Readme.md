@@ -13,4 +13,4 @@ Architecture definitions for creating the DAMN ResNet model and subsequently loa
 Supporting functions for processing data. <br>
 
 -> **DS_single_NPC.npy** <br>
-The Deep-STORM reconstruction of a single NPC using 5,000 low-resolution frames, as its evaluation requires a standalone environment. Additionally, the Deep-STORM training and evaluation uses the codebase of its authors, which we do not intend to replicate in our repository.
+The reconstruction of a single NPC using 5,000 low-resolution frames by the device-dependent Deep-STORM model, as its evaluation requires a standalone environment. Additionally, the Deep-STORM training and evaluation uses the codebase of its authors, which we do not intend to replicate in our repository.
