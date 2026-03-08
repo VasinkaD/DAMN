@@ -21,3 +21,6 @@ A single simulated low-resolution image with its high-resolution ground truth an
 
 -> **Small_demo_stack.zip** <br>
 A small subset of the tubulin dataset to demonstrate the proper data structure and normalization.
+
+-> **requirements_ResNet.txt** <br>
+A file containing pip freeze information about the environment with the Python version 3.11.3.
