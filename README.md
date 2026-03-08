@@ -1,5 +1,3 @@
-# 08-03-2026 The repository has been updated and is currently being tested on an independent machine.
-
 # From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging
 
 This repository provides data and supplementary material for the paper **From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**, by Dominik Vašinka, Filip Juráň, Jaromír Běhal, and Miroslav Ježek. <br>
