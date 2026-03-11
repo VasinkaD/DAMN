@@ -17,5 +17,5 @@ This directory contains code for training a device-agnostic model using incremen
 This directory contains all the code and data to reproduce the results presented in the paper.
 
 ## Technical notes:
-All the code was evaluated on Linux with an AMD EPYC 7443P processor and an NVIDIA RTX A5000 GPU. The computational time denoted in individual files refers to this configuration. <br>
+All the code was evaluated on Linux with an AMD EPYC 7443P processor and an NVIDIA RTX A5000 GPU using Python 3.11.3. The library versions are included in the requirement *.pip* files in each individual directory. The computational time denoted in individual files refers to this configuration. <br>
 The functionality was also tested on a standalone Linux machine. We did not explicitly test Windows systems, and they probably will not work without a proper Linux emulator due to TensorFlow's GPU support.
