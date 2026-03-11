@@ -17,5 +17,5 @@ The results are characterized in the section "*Astronomical and localization mic
 Subdirectory with codes for processing the microscopy data of nuclear pore complexes. <br>
 The results are characterized in the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 6-II*. <br>
 
--> **requirements_ResNet.pip** <br>
-A file containing pip freeze information about the environment with the Python version 3.11.3.
+-> **requirements_ResNet.txt** <br>
+A file containing pip freeze output for the Linux environment with Python 3.11.3.
