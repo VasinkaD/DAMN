@@ -116,7 +116,7 @@ def Generate_normed_dataset(num_data = 100,                                     
         #The convolved upscaled ground truth image is to be downsampled to the base size
         convolved_down = np.sum(convolved.reshape(size, upsampling_factor, size, upsampling_factor), axis=(1,3))
         
-        #Add not_convolved camera noise
+        #Add camera shot noise
         conv_blurred = convolved_down + np.random.poisson(noise_inten, (size, size))
         
         #Subtracting the minimum of image intensity
