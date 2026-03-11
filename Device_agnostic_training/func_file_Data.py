@@ -229,7 +229,7 @@ def Generate_normed_dataset(num_data_, image_size_, PSF_width_, kernel_choice_, 
         #The convolved upscaled ground truth image is to be transformed to the base size
         convolved_base = np.sum(convolved.reshape(size, upscaling_factor, size, upscaling_factor), axis=(1,3))
         
-        #Add not_convolved camera noise
+        #Add camera shot noise
         conv_blurred = convolved_base + np.random.poisson(current_camera_noise_intensity, (size, size))
         
         #Subtracting the minimum of image intensity
