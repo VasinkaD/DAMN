@@ -15,3 +15,7 @@ This directory contains code for training a device-agnostic model using incremen
 
 ### Paper_results
 This directory contains all the code and data to reproduce the results presented in the paper.
+
+## Technical notes:
+All the code was evaluated on an AMD EPYC 7443P processor and an NVIDIA RTX A5000 GPU. The computational time denoted in individual files refers to this configuration. <br>
+The functionality was also tested on a standalone machine.
