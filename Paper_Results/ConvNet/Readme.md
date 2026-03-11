@@ -10,4 +10,4 @@ Subdirectory with codes for processing the data samples measured with our optica
 The results are characterized in the section "*Optical microscopy experimental validation with full control over ground truth*" of the main text and *Figure 4*. <br>
 
 -> **requirements_ConvNet.pip** <br>
-A file containing pip freeze output for the Linux environment with Python 3.11.3 and CUDA 12.1.1.
+A file containing the minimal list of packages and their required versions from pip freeze output for the Linux environment with Python 3.11.3 and CUDA 12.1.1.
