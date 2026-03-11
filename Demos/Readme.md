@@ -23,4 +23,4 @@ A single simulated low-resolution image with its high-resolution ground truth an
 A small subset of the tubulin dataset to demonstrate the proper data structure and normalization.
 
 -> **requirements_ResNet.pip** <br>
-A file containing pip freeze output for the Linux environment with Python 3.11.3.
+A file containing the minimal list of packages and their required versions from pip freeze output for the Linux environment with Python 3.11.3.
