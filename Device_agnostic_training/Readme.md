@@ -11,5 +11,5 @@ Supporting functions for generating simulated data suitable for incremental lear
 -> **func_file_Model.py** <br>
 Architecture definitions for building the DAMN ResNet model. <br>
 
--> **requirements_ResNet.txt** <br>
+-> **requirements_ResNet.pip** <br>
 A file containing pip freeze output for the Linux environment with Python 3.11.3.
