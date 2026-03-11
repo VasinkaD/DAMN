@@ -1,0 +1,10 @@
+ipykernel
+ipython
+jupyterlab
+
+matplotlib
+numpy
+scipy
+
+keras==2.12.0
+tensorflow==2.12.0
