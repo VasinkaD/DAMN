@@ -1,0 +1,13 @@
+ipykernel
+ipython
+jupyterlab
+
+opencv-python
+tifffile
+matplotlib
+scipy
+
+tensorflow[and-cuda]==2.17.0
+keras==3.7.0
+numpy==1.26.4
+
