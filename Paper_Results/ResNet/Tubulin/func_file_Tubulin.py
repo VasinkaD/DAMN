@@ -12,12 +12,12 @@ def Load_sequence():
         with ZipFile("sequence.zip", 'r') as zip_ref:
             zip_ref.extractall("sequence")
     
-    allframes = [f for f in os.listdir("sequence/") if os.path.isfile(os.path.join("sequence/", f))]
+    allframes = [f for f in os.listdir("sequence/sequence/") if os.path.isfile(os.path.join("sequence/sequence/", f))]
     allframes.sort()
     
     frames = np.zeros([len(allframes), 128, 128])
     for i in range(len(allframes)):
-        frames[i] = tifffile.imread("sequence/" + allframes[i]).astype(float)
+        frames[i] = tifffile.imread("sequence/sequence/" + allframes[i]).astype(float)
     
     return frames
 
