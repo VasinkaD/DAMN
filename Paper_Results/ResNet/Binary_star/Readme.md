@@ -13,5 +13,5 @@ Supporting functions for processing the data. <br>
 -> **Binary_star_LR.tiff** <br>
 The low-resolution image from the ground-based telescope to be reconstructed. The fully unresolved binary stars are located in the center. <br>
 
--> **GT_table.txt** <br>
+-> **GT_table.csv** <br>
 The ground-truth information on the binary stars from the space-based observatory provided by the Gaia Data Release 3. <br>
