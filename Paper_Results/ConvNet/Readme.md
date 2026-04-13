@@ -6,7 +6,7 @@ Subdirectory with codes for generating simulated data, processing them using all
 The results are characterized in the section "*Evaluation using simulated data*" of the main text and *Figure 2*. <br>
 
 -> **Optical_experiment** <br>
-Subdirectory with codes for processing the data samples measured with our optical setup, which allows full control over the ground-truth emitter distribution. <br>
+Subdirectory with codes for processing the data samples measured with our optical setup, which allows partial control over the ground-truth emitter distribution. <br>
 The results are characterized in the section "*Optical microscopy experimental validation with partial control over ground truth*" of the main text and *Figure 4*. <br>
 
 -> **requirements_ConvNet.pip** <br>
