@@ -1,4 +1,4 @@
-This directory contains codes and data for reproducing the results of the section "*Optical microscopy experimental validation with full control over ground truth*" of the main text and *Figure 4*. <br>
+This directory contains codes and data for reproducing the results of the section "*Optical microscopy experimental validation with partial control over ground truth*" of the main text and *Figure 4*. <br>
 In addition to the provided files, it also requires the *DAMN_ConvNet.h5* model and the *Measured_data.npz* data from the optical experiment. Due to its size, they are available for download at [Zenodo repository](https://doi.org/10.5281/zenodo.14641651). <br>
 
 -> **1_Generate_explike_data.ipynb** <br>
