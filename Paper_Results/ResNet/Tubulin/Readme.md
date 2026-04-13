@@ -1,4 +1,4 @@
-This directory contains code and data to reproduce the results for the tubulin dataset from the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 6-I*. <br>
+This directory contains code and data to reproduce the results for the tubulin dataset from the section "*Stellar astronomy and localization microscopy demonstration*" of the main text and *Figure 6-I*. <br>
 In addition to the provided files, it also requires the *DAMN_ResNet.keras* model. Due to its size, it is available for download at [Zenodo repository](https://doi.org/10.5281/zenodo.14641651). <br>
 
 -> **Tubulin_evaluate.ipynb** <br>
