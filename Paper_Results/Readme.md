@@ -4,7 +4,7 @@ We strongly recommend reading the publication first to familiarize yourself with
 
 -> **ConvNet** <br>
 Subdirectory with applications related to the non-upsampling ConvNet model. <br>
-This model was used for the "*Evaluation using simulated datasets*" and "*Optical microscopy experimental validation with full control over ground truth*" sections. <br>
+This model was used for the "*Evaluation using simulated datasets*" and "*Optical microscopy experimental validation with partial control over ground truth*" sections. <br>
 
 -> **ResNet** <br>
 Subdirectory with applications related to the upsampling ResNet model. <br>
