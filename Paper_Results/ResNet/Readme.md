@@ -5,17 +5,17 @@ Each subdirectory uses the *DAMN_ResNet.keras* model. Due to its size, it is ava
 Subdirectory with codes for generating simulated data with realistic aberrated point spread functions, and the corresponding analysis. <br>
 The results are characterized in the section "*Aberration analysis*" of Methods and *Extended Data Figure 2*. <br>
 
--> **Binary_stars** <br>
-Subdirectory with codes for processing the astronomical data with a fully unresolved binary star. <br>
-The results are characterized in the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 5*. <br>
+-> **Double_star** <br>
+Subdirectory with codes for processing the astronomical data with a fully unresolved double star. <br>
+The results are characterized in the section "*Stellar astronomy and localization microscopy demonstration*" of the main text and *Figure 5*. <br>
 
 -> **Tubulin** <br>
 Subdirectory with codes for processing the microscopy tubulin data. <br>
-The results are characterized in the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 6-I*. <br>
+The results are characterized in the section "*Stellar astronomy and localization microscopy demonstration*" of the main text and *Figure 6-I*. <br>
 
 -> **Nuclear_pore_complexes** <br>
 Subdirectory with codes for processing the microscopy data of nuclear pore complexes. <br>
-The results are characterized in the section "*Astronomical and localization microscopy demonstration*" of the main text and *Figure 6-II*. <br>
+The results are characterized in the section "*Stellar astronomy and localization microscopy demonstration*" of the main text and *Figure 6-II*. <br>
 
 -> **requirements_ResNet.pip** <br>
 A file containing the minimal list of packages and their required versions from pip freeze output for the Linux environment with Python 3.11.3.
